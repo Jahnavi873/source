@@ -8,11 +8,15 @@ case1:
 case2:
 {
 	printf("Btech AIML");
-
 }
 case3:
 {
 	printf("ECE");
 }
+case4:
+{
+	printf("MEC");
+}
+
 
 
