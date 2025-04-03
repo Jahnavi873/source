@@ -9,7 +9,7 @@ void main()
 	printf("mol is %d":a%b);
 	printf("amity university");
         printf("Jahavi");
-
+        printf("AIML");
 	}
 
 
