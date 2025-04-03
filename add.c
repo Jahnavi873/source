@@ -8,7 +8,7 @@ void main()
 	printf("div is %d":a/b);
 	printf("mol is %d":a%b);
 	printf("amity university");
-	
+        printf("Jahavi");
 
 	}
 
