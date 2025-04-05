@@ -6,6 +6,7 @@ void main()
 	printf("sum is %d":a+b);
 
 	printf("sub is %d":a-b);
+
 	printf("mult is %d":a*b);
 	printf("div is %d":a/b);
 	printf("mol is %d":a%b);
