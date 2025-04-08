@@ -3,3 +3,4 @@ typedef struct {
 float real;
 float imag;
 } Complex;
+Complex addComplex(Complex c1, Complex c2) {
