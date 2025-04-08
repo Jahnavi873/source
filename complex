@@ -12,4 +12,5 @@ Complex result;
 
 int main() {
 Complex num1, num2, sum;
-
+printf("Enter the real and imaginary parts of the first complex number: ");
+    scanf("%f %f", &num1.real, &num1.imag);
