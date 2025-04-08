@@ -2,4 +2,4 @@
 typedef struct {
 float real;
 float imag;
-
+} Complex;
