@@ -11,3 +11,5 @@ Complex result;
 }
 
 int main() {
+Complex num1, num2, sum;
+
