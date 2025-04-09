@@ -18,4 +18,4 @@ printf("Enter the real and imaginary parts of the second complex number: ");
 scanf("%f %f", &num2.real, &num2.imag);
 sum = addComplex(num1, num2);
 printf("Sum of the complex numbers: %.2f + %.2fi\n", sum.real, sum.imag);
-
+return 0;
