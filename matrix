@@ -31,6 +31,7 @@ for (j = 0; j < c; ++j)
 {
 printf("%d ", sum[i][j]);
 if (j == c - 1)
+{
 
 
 
