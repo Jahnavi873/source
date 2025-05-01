@@ -33,7 +33,7 @@ printf("%d ", sum[i][j]);
 if (j == c - 1)
 {
 printf("\n\n");
-
+}
 
 
 
