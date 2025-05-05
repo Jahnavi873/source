@@ -4,4 +4,4 @@ int main()
 int n, sum = 0;
 printf("Enter a positive integer: ");
 scanf("%d", &n);
-
+}
