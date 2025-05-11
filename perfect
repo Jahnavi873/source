@@ -12,6 +12,7 @@ System.out.println(number + " is not a Perfect Number.");
 }
 }
 public static boolean isPerfectNumber(int num)
+{
 ~
 ~
 
