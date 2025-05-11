@@ -5,6 +5,7 @@ int number = 28;
 if (isPerfectNumber(number))
 {
 System.out.println(number + " is a Perfect Number.");
+}
 ~
 ~
 
