@@ -7,7 +7,7 @@ if (isPerfectNumber(number))
 System.out.println(number + " is a Perfect Number.");
 }
 else
-
+{
 ~
 ~
 
