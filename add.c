@@ -7,8 +7,8 @@ void main()
 
 	printf("mult is %d":a*b);
 	printf("div is %d":a/b);
-	printf("mol is %d":a%b);
-	printf("Amity University");
+	printf("mult is %d":a%b);
+	printf("Nodia");
         printf("Jahavi");
         printf("CSE");
 	
